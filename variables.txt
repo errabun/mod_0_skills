@@ -1,0 +1,19 @@
+var food = "pizza";
+
+isDelicious: true;
+
+food = "french fries";
+
+var num2 = 24;
+
+var num7 = 48;
+
+var quotient = num7 / num2;
+console.log(quotient); // expected output: 2
+
+var songs = ["Red Hot Mama", "Bust it Big", "Climb to Safety"];
+
+songs.shift(songs);
+console.log(songs); // expected output: ["Bust it Big", "Climb to Safety"]
+
+console.log(`${food.length}`);  // expected output: 5
