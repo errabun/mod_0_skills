@@ -16,4 +16,4 @@ var songs = ["Red Hot Mama", "Bust it Big", "Climb to Safety"];
 songs.shift(songs);
 console.log(songs); // expected output: ["Bust it Big", "Climb to Safety"]
 
-console.log(`${food.length}`);  // expected output: 5
+console.log(`${food.length}`);  // expected output: 12
