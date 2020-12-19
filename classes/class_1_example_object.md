@@ -8,7 +8,7 @@
  - tablesSeated: 15
 
 ## Methods:
- - offersHappyHour: ["breakfast", "lunch", "dinner", "happy hour"]
+ - addHappyHour: ["breakfast", "lunch", "dinner", "happy hour"]
  - addTwoTables: 30
  - changeRestaurant: "Olive Garden"
  - calculatePercentFull: .53
